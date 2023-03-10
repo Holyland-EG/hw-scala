@@ -1,1 +1,1 @@
-# hw_scala
+# Scala homework
